@@ -42,4 +42,4 @@ A small network with one ISP modem/router, a few Windows PCs and phones on Wi-Fi
 - If an app or connection fails, check whether the firewall is blocking it before changing other settings.
 
 ## Tools used
-Windows Command Prompt (`ipconfig`, `ping`, `tracert`, `nslookup`), router admin page.
+Windows Command Prompt (`ipconfig`, `ping`, `tracert`, `nslookup`), Windows Defender / Windows Security, router admin page.
